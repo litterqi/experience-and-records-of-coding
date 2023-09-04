@@ -15,7 +15,7 @@ for(int i=3;i<=n;i++)
 
 {
 
-	for(int j=i-1;j>=1;j--)
+	for(int j=i-1;j>=1;j--)//这里写成for(int j=1;j<=i-1;j++)也可以
  
 	{
  
